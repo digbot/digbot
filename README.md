@@ -10,7 +10,7 @@ In my free time, I like to:
 - 🎮 Play old video games (Fallout and Fallout 2, Arcanum: of steamworks and magick obscuras)
 - 💻 Experiment with new software technologies
 
-## 📦 Latest Pet Project: ![google_sheet_writer](https://github.com/digbot/google_sheet_writer) 
+## 📦 Latest Pet Project: [google_sheet_writer](https://github.com/digbot/google_sheet_writer)
 ### Personal Accounting Software
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
