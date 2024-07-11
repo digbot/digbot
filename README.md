@@ -15,10 +15,12 @@ In my free time, I like to:
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-My latest project is called `google_sheets_write`. It is a personal accounting software that uses the Google API to search for data in emails and then writes that data into a Google Sheet.
+My latest project is called `google_sheets_write` and it uses Python. It is a personal accounting software that uses the Google API to search for data in emails and then writes that data into a Google Sheet.
 
 - 🔍 Utilizes Google API to search data in emails.
 - 📝 Writes the extracted data into Google Sheets for easy tracking and managem
+
+Also you can check my personal accounting REST API that uses NestJS and TypeORM. [nestJSpvp](https://github.com/digbot/nestJSpvp)
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
